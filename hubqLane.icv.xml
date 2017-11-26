@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="gbk"?>
+<opencv_storage><Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"黄色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>2</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      6 584 407 418
+    </data>
+  </Position>
+</Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"白色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>6</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      3 1007 157 841 332 654 481 486 526 434 581 363
+    </data>
+  </Position>
+</Frame00000Target00001>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"黄色实线"</Type>
+  <Position type_id="opencv-matrix">
+    <rows>2</rows>
+    <cols>1</cols>
+    <dt>"2i"</dt>
+    <data>
+      7 591 415 419
+    </data>
+  </Position>
+</Frame00001Target00000>
+</opencv_storage>
